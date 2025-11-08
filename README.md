@@ -39,6 +39,7 @@
 - [iStoreOS 官网](https://site.istoreos.com/)
 - [恩山无线论坛](https://www.right.com.cn/forum/)
 - [CSDN](https://www.csdn.net)
+- [kenzok8大佬的插件仓库主页](https://github.com/kenzok8)
 
 
 ## 贡献
