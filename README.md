@@ -10,13 +10,13 @@
 
 本项目根据认证方式分为 **客户端认证** 和 **网页认证** 两大类别，帮助用户针对不同的认证场景找到相应的解决方案。
 
-1. **[客户端认证](solutions/authentication-methods/)**  
+1. **[客户端认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/client-authentication-solutions)**  
    针对不同厂商的客户端进行解决方案适配。
 
-2. **[网页认证](solutions/client-vs-web/)**  
+2. **[网页认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/web-authentication-solutions)**  
    针对网页认证方式进行通用方案适配。
    
-4. **[其他认证](solutions/client-vs-web/)**  
+4. **[其他认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/other-authentication-solutions)**  
    针对其他方式进行通用方案适配。
    
 ---
