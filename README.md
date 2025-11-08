@@ -33,26 +33,25 @@
 
 ```
 Campus-Net-Savior/
-├── README.md               # 项目根目录的 README 文件，概述项目的目的与使用说明
-├── solutions/              # 存放解决方案的目录
-│   ├── README.md           # 该目录的 README 文件，概述整个认证解决方案部分
+├── README.md                     # 项目根目录的 README 文件，概述项目的目的与使用说明
+├── solutions/                    # 存放解决方案的目录
+│   ├── README.md                 # 该目录的 README 文件，概述整个认证解决方案部分
 │   ├── client-authentication-solutions/   # 客户端认证解决方案
-│   │   ├── README.md       # 该部分的 README 文件，概述客户端认证解决方案
-│   │   ├── client-Dr.COM/  # Dr.COM 客户端认证的具体实现目录
-│   │   ├── client-ruijie/  # 瑞捷客户端认证的具体实现目录
-│   │   └── ...             # 其他客户端认证方案的目录
+│   │   ├── README.md             # 该部分的 README 文件，概述客户端认证解决方案
+│   │   ├── client-Dr.COM/        # Dr.COM 客户端认证的具体实现目录
+│   │   ├── client-ruijie/        # 瑞捷客户端认证的具体实现目录
+│   │   └── ...                   # 其他客户端认证方案的目录
 │   ├── other-authentication-solutions/    # 其他认证解决方案
-│   │   └── README.md       # 该部分的 README 文件，概述其他认证方式
-│   │   └── ...             # 其他认证方案的目录
+│   │   └── README.md             # 该部分的 README 文件，概述其他认证方式
+│   │   └── ...                   # 其他认证方案的目录
 │   ├── web-authentication-solutions/      # 网页认证解决方案
-│   │   ├── README.md       # 该部分的 README 文件，概述网页认证解决方案
-│   │   ├── anto-shell/     # anto-shell 认证方案的具体实现目录
-│   │   ├── shell/          # shell 认证方案的具体实现目录
-│   │   └── ...             # 其他网页认证方案的目录
-│   └── auth-plugin-collection/  # 存放所有认证插件集合
-│       ├── README.md       # 该部分的 README 文件，概述认证插件集合
-│       └── ...             # 其他插件的目录
-└── ...                     #项目根目录其他文件
+│   │   ├── README.md             # 该部分的 README 文件，概述网页认证解决方案
+│   │   ├── Luci-app-nettask      # nettask 自定义 Shell 脚本的工具
+│   │   └── ...                   # 其他网页认证方案的目录
+│   └── auth-plugin-collection/   # 存放所有认证插件集合
+│       ├── README.md             # 该部分的 README 文件，概述认证插件集合
+│       └── ...                   # 其他插件的目录
+└── ...                           # 项目根目录其他文件
 ```
 
 ## 如何使用
