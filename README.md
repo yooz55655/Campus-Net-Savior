@@ -12,14 +12,17 @@
 
  1. **[客户端认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/client-authentication-solutions)**  
    针对不同厂商的客户端进行解决方案适配。
+```
+锐捷、塞尔等校园网客户端认证
+```
 
- 2. **[网页认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/web-authentication-solutions)**  
+ 3. **[网页认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/web-authentication-solutions)**  
    针对网页认证方式进行通用方案适配。
    
- 3. **[其他认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/other-authentication-solutions)**  
+ 4. **[其他认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/other-authentication-solutions)**  
    针对其他方式进行通用方案适配。
 
- 4. **[认证插件集合](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)**  
+ 5. **[认证插件集合](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)**  
    应用于OpenWrt的主流校园网认证插件集合。
 
    ---
