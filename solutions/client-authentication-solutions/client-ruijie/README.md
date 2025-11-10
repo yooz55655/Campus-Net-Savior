@@ -233,7 +233,7 @@ OpenWrt/LEDE LuCI for minieap
 本软件包是 minieap 的 LuCI界面
 ```
 
--[编译并使用 minieap 实现路由器锐捷认证上网](https://www.cnblogs.com/Undefined443/p/18375072) 作者：Undefined443 [个人主页](https://www.cnblogs.com/Undefined443)
+- [编译并使用 minieap 实现路由器锐捷认证上网](https://www.cnblogs.com/Undefined443/p/18375072) 作者：Undefined443 [个人主页](https://www.cnblogs.com/Undefined443)
 
 
 
