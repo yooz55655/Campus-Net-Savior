@@ -63,7 +63,7 @@ Bug report to http://code.google.com/p/mentohust/issues/list
 例如:   mentohust -uusername -ppassword -neth0 -i192.168.0.1 -m255.255.255.0 -g0.0.0.0 -s0.0.0.0 -o0.0.0.0 -t8 -e30 -r15 -a0 -d1 -b0 -v4.10 -fdefault.mpf -cudhcpc -i
 注意：使用时请确保是以root权限运行！
 
-例子：
+✨例子：
 账号是123456789，密码是88888888，wan口网卡是eth0
 在网页终端（ttyd）或ssh登陆后的拨号命令可以是
 mentohust -u123456789 -p88888888 -neth0 -a1 -b1 -w
