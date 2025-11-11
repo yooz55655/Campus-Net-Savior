@@ -13,7 +13,7 @@
  1. **[客户端认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/client-authentication-solutions)**  
    针对不同厂商的客户端进行解决方案适配。
 ```
-锐捷、塞尔等校园网客户端认证
+锐捷、赛尔等校园网客户端认证
 ```
 
  3. **[网页认证](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/web-authentication-solutions)**  
