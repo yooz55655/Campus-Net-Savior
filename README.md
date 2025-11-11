@@ -29,11 +29,11 @@
 
    ## 💡 相关内容
 
- 1. **[OpenWrt/iStoreOS插件推荐](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)**  
-   应用于OpenWrt的主流校园网认证插件集合。
+**[OpenWrt/iStoreOS插件推荐](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)**
 
- 2. **[路由器配置、操作教程](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/operation-tutorial)**  
-   详细操作教程。
+**[路由器配置、操作教程](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/operation-tutorial)**  
+
+**[恩山OpenGirl固件](https://www.right.com.cn/forum/thread-8411432-1-1.html)**  
    
 ---
 
