@@ -67,12 +67,19 @@ luci-app-nettask_2.0.0-1_all.ipk
 - [校园网web自动认证最新解决方案（luci-app-nettask）](https://www.right.com.cn/forum/thread-8351673-1-1.html) 作者：Brukamen [个人主页](https://www.right.com.cn/forum/space-uid-837703.html)
 - [OpenWrt系统路由器自动Web认证校园网](https://suiseiko.com/?p=30) 作者：脆芙椰椰 [个人主页](https://suiseiko.com/)
 
-
 ---
 
 ## 2.autoshell
 
 ### 2.1插件下载
+
+- [链接1](https://github.com/lucikap/luci-app-brukamen/tree/main/luci-app-autoshell) 作者：lucikap（Brukamen） [个人主页](https://github.com/lucikap)
+```
+仅有 luci-app-autoshell_1.2.3-1_mipsel_24kc.ipk
+其他架构需自行编译
+
+```
+[luci-app-autoshell_1.2.3-1_mipsel_24kc.ipk](https://github.com/lucikap/luci-app-brukamen/blob/main/luci-app-autoshell_1.2.3-1_mipsel_24kc.ipk)
 
 ---
 
@@ -80,6 +87,25 @@ luci-app-nettask_2.0.0-1_all.ipk
 
 #### 2.2.1前置和安装包的说明
 
+
+```
+该插件是针对校园网 Web 认证场景开发的实用工具。很多校园网需要通过网页手动登录认证才能联网，而此插件可让用户将抓包获取的 curl 登录命令制作成 bash 脚本，配置后路由器能自动执行脚本完成联网认证，无需每次手动操作，解决了校园网频繁手动登录的痛点。
+```
+
 #### 2.2.2autoshell详细介绍
 
+```
+获取方式
+该插件收录在luci-app-brukamen项目中，可通过项目仓库获取，具体路径如下：
+访问 GitHub 仓库：https://github.com/lucikap/luci-app-brukamen.git ；
+仓库中包含该插件的源码及对应 ipk 安装包（例如luci-app-autoshell_1.2.3-1_mipsel_24kc.ipk，不同平台版本的后缀可能有差异）；
+也可通过仓库中的全自动编译脚本，自行编译生成适配自身路由器硬件平台的 ipk 文件。
+
+生效配置：安装完成后重启路由器，重启后即可在 OpenWrt 的 LuCI Web 界面中找到该插件的相关功能入口，后续可在此配置自动登录脚本。
+```
+
 #### 2.2.3autoshell 相关参考链接
+
+```
+暂无
+```
