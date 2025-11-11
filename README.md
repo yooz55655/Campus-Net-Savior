@@ -6,6 +6,10 @@
 
 ---
 
+## 📦 Release
+
+发行版 https://github.com/yooz55655/Campus-Net-Savior/releases
+
 ## 🌐 项目结构
 
 本项目进行分类试图帮助用户针对不同的认证场景找到相应的解决方案。
@@ -29,11 +33,11 @@
 
    ## 💡 相关内容
 
-**[OpenWrt/iStoreOS插件推荐](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)**
+- [OpenWrt/iStoreOS插件推荐](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/auth-plugin-collection)
 
-**[路由器配置、操作教程](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/operation-tutorial)**  
+- [路由器配置、操作教程](https://github.com/yooz55655/Campus-Net-Savior/tree/main/solutions/operation-tutorial)
 
-**[恩山OpenGirl固件](https://www.right.com.cn/forum/thread-8411432-1-1.html)**  
+- [恩山OpenGirl固件](https://www.right.com.cn/forum/thread-8411432-1-1.html)
    
 ---
 
