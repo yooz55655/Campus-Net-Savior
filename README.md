@@ -89,7 +89,15 @@ Campus-Net-Savior/
 - [CSDN](https://www.csdn.net)
 - [kenzok8大佬的插件仓库主页](https://github.com/kenzok8)
 
-
 ## 💡 贡献
 
 欢迎各位贡献者！如果你有新的认证方式解决方案或者优化建议，欢迎提交 Pull Request。
+
+![Star History](https://api.star-history.com/svg?repos=yooz55655/Campus-Net-Savior&type=Date)
+ 
+[![Release](https://img.shields.io/github/v/release/yooz55655/Campus-Net-Savior)](https://github.com/yooz55655/Campus-Net-Savior/releases)
+[![Downloads](https://img.shields.io/github/downloads/yooz55655/Campus-Net-Savior/total)](https://github.com/yooz55655/Campus-Net-Savior/releases)
+[![Stars](https://img.shields.io/github/stars/yooz55655/Campus-Net-Savior)](https://github.com/yooz55655/Campus-Net-Savior/stargazers)
+[![License](https://img.shields.io/github/license/yooz55655/Campus-Net-Savior)](https://github.com/yooz55655/Campus-Net-Savior/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-green)](https://github.com/yooz55655/Campus-Net-Savior/issues)
+
